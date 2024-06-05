@@ -26,7 +26,6 @@ const createuser=()=>{
     <button className="signup-button" onClick={createuser}>        
         Sign Up
 </button>
-<NavLink to="/login"><h3 className='login-title'><span>Or</span>Login</h3></NavLink>
 </div>
     </>
   )

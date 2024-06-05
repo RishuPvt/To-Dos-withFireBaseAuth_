@@ -32,7 +32,6 @@ function Login() {
     <button className="signup-button" onClick={LoginUser}>        
         Log In
 </button>
- <h3 className='login-title'><span>Or</span>Sign Up</h3>
 </div>
     </>
   )
